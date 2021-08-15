@@ -1,0 +1,1 @@
+"C:/Program Files/Python37/python.exe" -m PyInstaller main.py --noconfirm --name="match-id-grabber" --onefile 
